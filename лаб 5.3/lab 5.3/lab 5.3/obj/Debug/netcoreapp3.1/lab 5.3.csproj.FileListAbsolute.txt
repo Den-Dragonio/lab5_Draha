@@ -1,0 +1,14 @@
+D:\PROJECTS\Visual studio back-end\Лабораторна 5\курс2 лаб5\лаб 5.3\lab 5.3\lab 5.3\bin\Debug\netcoreapp3.1\lab 5.3.exe
+D:\PROJECTS\Visual studio back-end\Лабораторна 5\курс2 лаб5\лаб 5.3\lab 5.3\lab 5.3\bin\Debug\netcoreapp3.1\lab 5.3.deps.json
+D:\PROJECTS\Visual studio back-end\Лабораторна 5\курс2 лаб5\лаб 5.3\lab 5.3\lab 5.3\bin\Debug\netcoreapp3.1\lab 5.3.runtimeconfig.json
+D:\PROJECTS\Visual studio back-end\Лабораторна 5\курс2 лаб5\лаб 5.3\lab 5.3\lab 5.3\bin\Debug\netcoreapp3.1\lab 5.3.runtimeconfig.dev.json
+D:\PROJECTS\Visual studio back-end\Лабораторна 5\курс2 лаб5\лаб 5.3\lab 5.3\lab 5.3\bin\Debug\netcoreapp3.1\lab 5.3.dll
+D:\PROJECTS\Visual studio back-end\Лабораторна 5\курс2 лаб5\лаб 5.3\lab 5.3\lab 5.3\bin\Debug\netcoreapp3.1\lab 5.3.pdb
+D:\PROJECTS\Visual studio back-end\Лабораторна 5\курс2 лаб5\лаб 5.3\lab 5.3\lab 5.3\obj\Debug\netcoreapp3.1\lab 5.3.csproj.AssemblyReference.cache
+D:\PROJECTS\Visual studio back-end\Лабораторна 5\курс2 лаб5\лаб 5.3\lab 5.3\lab 5.3\obj\Debug\netcoreapp3.1\lab 5.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Visual studio back-end\Лабораторна 5\курс2 лаб5\лаб 5.3\lab 5.3\lab 5.3\obj\Debug\netcoreapp3.1\lab 5.3.AssemblyInfoInputs.cache
+D:\PROJECTS\Visual studio back-end\Лабораторна 5\курс2 лаб5\лаб 5.3\lab 5.3\lab 5.3\obj\Debug\netcoreapp3.1\lab 5.3.AssemblyInfo.cs
+D:\PROJECTS\Visual studio back-end\Лабораторна 5\курс2 лаб5\лаб 5.3\lab 5.3\lab 5.3\obj\Debug\netcoreapp3.1\lab 5.3.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Visual studio back-end\Лабораторна 5\курс2 лаб5\лаб 5.3\lab 5.3\lab 5.3\obj\Debug\netcoreapp3.1\lab 5.3.dll
+D:\PROJECTS\Visual studio back-end\Лабораторна 5\курс2 лаб5\лаб 5.3\lab 5.3\lab 5.3\obj\Debug\netcoreapp3.1\lab 5.3.pdb
+D:\PROJECTS\Visual studio back-end\Лабораторна 5\курс2 лаб5\лаб 5.3\lab 5.3\lab 5.3\obj\Debug\netcoreapp3.1\lab 5.3.genruntimeconfig.cache
